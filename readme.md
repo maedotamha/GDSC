@@ -1,0 +1,1 @@
+Hello this is my, maedot amhas' read me for the trail of git in GDSC!
